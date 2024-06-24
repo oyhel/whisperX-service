@@ -1,4 +1,5 @@
 import os
+import sys
 from typing import BinaryIO, Union
 from io import StringIO
 from threading import Lock
